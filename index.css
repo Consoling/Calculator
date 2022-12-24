@@ -14,11 +14,11 @@ body {
 
 .screen {
     width: 224px;
+    overflow: hidden;
     background-color: rgb(176,205,176);
     font-size: 40px;
     text-align: end;
     padding: 4px;
-    overflow: scroll-hidden
 }
 
 .buttons {
